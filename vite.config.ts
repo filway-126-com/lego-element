@@ -53,5 +53,4 @@ export default defineConfig({
       },
     },
   },
-  base: '/lego-element',
 })
